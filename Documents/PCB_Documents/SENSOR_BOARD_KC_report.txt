@@ -1,0 +1,45 @@
+PCB statistics report
+=====================
+- Date: 27-12-2024 20:58:45
+- Project: SENSOR_BOARD_KC
+- Board name: SENSOR_BOARD_KC
+
+Board
+-----
+- Width: 199.0000 mm
+- Height: 120.0000 mm
+- Area: 23880.0000 mm²
+
+Pads
+----
+- Through hole: 138
+- SMD: 2
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 0
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |         34 |         0 |    34 |
+|SMD:          |          0 |         0 |     0 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |         34 |         0 |    34 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    50 | Round | 0.9000 mm | 0.9000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    46 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    30 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     8 | Round | 1.5000 mm | 1.5000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 1.0200 mm | 1.0200 mm |    PTH |     Pad |        F.Cu |       B.Cu |
