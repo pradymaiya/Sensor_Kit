@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SENSOR_SYMBOLS")(type "KiCad")(uri "${KIPRJMOD}/SENSOR_SYMBOLS.kicad_sym")(options "")(descr ""))
+  (lib (name "Neo")(type "KiCad")(uri "${KIPRJMOD}/Demo/Neo.kicad_sym")(options "")(descr ""))
+  (lib (name "Demo")(type "KiCad")(uri "${KIPRJMOD}/Demo/Demo.kicad_sym")(options "")(descr ""))
+)

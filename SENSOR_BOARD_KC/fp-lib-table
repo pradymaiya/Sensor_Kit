@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Sensor_footprints")(type "KiCad")(uri "${KIPRJMOD}/SENSOR_BOARD_KC-backups/Sensor_footprints.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/SENSOR_BOARD_KC-backups/Demo/Library.pretty")(options "")(descr ""))
+)
