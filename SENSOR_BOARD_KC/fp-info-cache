@@ -1,4 +1,4 @@
-24436942134362621
+24438705467889241
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91126,6 +91126,13 @@ Neo-6M
 4
 4
 Sensor_footprints
+STLINK_Connect
+
+
+0
+4
+4
+Sensor_footprints
 SW420
 
 
@@ -91137,8 +91144,8 @@ Switch
 
 
 0
-2
-2
+4
+3
 Sensor_footprints
 TCS3200
 
